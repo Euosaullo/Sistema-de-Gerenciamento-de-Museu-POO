@@ -38,7 +38,7 @@ public class Exposição {
         return data_fim;
     }
     
-    //mostrar obras
+    //mostrar obrasss
     //mostrar visitantes
     
     //SETS
